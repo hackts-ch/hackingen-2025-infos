@@ -3,7 +3,13 @@
 ## Eure Pitch Präsentation hinzufügen
 
  * Dieses Git Repository "forken"
- * Fügt eure Präsentation in disem Ordner als `${group}_presentation.pptx` (Also `alpha_presentation.pptx` z.B.) hinzu.
+   ![](./github-project-forken.png)
+   
+ * Fügt eure Präsentation in diesem Ordner als `${group}_presentation.pptx` (Also `alpha_presentation.pptx` z.B.) hinzu.
+   ![](./github-upload-files.png)
+
+ * Pull request zum originalen Repository erstellen
+   ![](./github-open-pull-request.png)
 
 ## Hinweise
 
